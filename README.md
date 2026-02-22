@@ -11,16 +11,23 @@
 
 # 🌟 About Me
 
-💼 Software Developer working on real-world production SaaS platforms:
+Full Stack Developer with hands-on experience building scalable SaaS applications using React.js, TypeScript, FastAPI, and AWS.
 
-- 🔵 Full Stack Developer — HyrSense  
-- 🟣 Frontend Developer — SkillfulSense  
-- 🟢 Frontend Developer — HRSuit  
+I specialize in developing production-ready systems involving secure authentication (AWS Cognito), payment integrations (Razorpay and Stripe), and cloud-native infrastructure using S3, Lambda, and API Gateway.
 
-🎓 B.E (Hons) Computer Science and Engineering  
-📍 Chennai, India  
+At BAPON Technologies, I contribute to real-world AI-powered SaaS platforms by designing responsive frontend interfaces, developing backend APIs, and integrating secure, scalable cloud services. My work focuses on performance optimization, seamless user experience, and reliable end-to-end feature delivery.
 
-I specialize in building secure, scalable applications across frontend, backend, and cloud layers. My focus is on modern frontend architecture, secure authentication, and scalable AWS deployments.
+I actively leverage modern AI-assisted development tools such as ChatGPT, GitHub Copilot, Cursor, Claude, Qoder and other AI coding assistants to accelerate development, improve code quality, streamline debugging, and enhance overall engineering productivity while maintaining production standards.
+
+Key strengths:
+• Frontend development with React.js and TypeScript
+• Backend API development using FastAPI
+• Cloud architecture and deployment with AWS
+• Authentication and secure user management (AWS Cognito)
+• Payment gateway integration and end-to-end SaaS workflows
+• AI-assisted development for faster and efficient delivery
+
+AWS Certified Cloud Practitioner with a strong interest in frontend architecture, scalable system design, and cloud-native application development.
 
 ---
 
