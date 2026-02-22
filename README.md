@@ -5,144 +5,134 @@
 </p>
 
 🚀 Full Stack Developer with hands-on experience building scalable SaaS applications using React, TypeScript, FastAPI, and AWS.  
-☁️ AWS Certified Cloud Practitioner with expertise in authentication, payment integration, and cloud-native systems.  
+☁️ AWS Certified Cloud Practitioner specializing in secure authentication, payment systems, and cloud-native architecture.
 
 ---
 
 # 🌟 About Me
 
-🚀 Full Stack Developer with hands-on experience building scalable SaaS applications using **React.js, TypeScript, FastAPI, and AWS**.
+Full Stack Developer experienced in building **production-grade SaaS platforms** across frontend, backend, and cloud layers.
 
-I specialize in developing **production-ready systems** with:
+Currently working at **BAPON Technologies**, contributing to AI-powered SaaS products including:
 
-- 🔐 Secure authentication using AWS Cognito  
-- 💳 Payment integration using Razorpay and Stripe  
-- ☁️ Cloud-native infrastructure using AWS S3, Lambda, and API Gateway  
-- ⚡ High-performance, scalable SaaS architecture  
+- 🔵 Full Stack Developer — HyrSense  
+- 🟣 Frontend Developer — SkillfulSense  
+- 🟢 Frontend Developer — HRSuit  
 
-Currently working at **BAPON Technologies**, contributing to real-world AI-powered SaaS platforms by:
+Core focus areas:
 
-- Developing responsive frontend interfaces using React and TypeScript  
-- Building backend APIs using FastAPI  
-- Integrating secure AWS cloud infrastructure  
-- Delivering end-to-end production features  
+- Secure authentication using AWS Cognito  
+- Payment integrations using Razorpay and Stripe  
+- Cloud-native deployment using AWS  
+- High-performance frontend architecture  
+- Scalable backend API development  
 
----
-
-## ⚡ Key Strengths
-
-- 💻 Frontend Development: React.js, TypeScript  
-- ⚙️ Backend Development: FastAPI, REST APIs  
-- ☁️ Cloud Architecture: AWS (S3, Lambda, API Gateway, Cognito)  
-- 🔐 Authentication & Security: AWS Cognito, secure access workflows  
-- 💳 Payment Integration: Razorpay, Stripe  
-- 🤖 AI-assisted Development: ChatGPT, GitHub Copilot, Cursor, Claude, Qoder  
-
----
-
-🏆 **AWS Certified Cloud Practitioner**  
-Passionate about building scalable systems, modern frontend architecture, and cloud-native SaaS platforms.
+I actively use AI-assisted tools like **ChatGPT, Claude, Cursor, Qoder, Bolt, and Lovable**, accelerating development speed by **2–3×** while maintaining production-quality standards.
 
 ---
 
 # 🧠 Tech Stack
 
-## 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+## 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+
 
 ## 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-## ⚙️ Backend & APIs
+## ⚙️ Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-secure-green?style=for-the-badge)
 
-## ☁️ Cloud & Infrastructure
+## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge)
-![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-DD344C?style=for-the-badge)
+![AWS Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
 
-## 🔐 Authentication & Payments
-![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-DD344C?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+## 💳 Payments
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge)
 
+## 🤖 AI Development Tools
+ChatGPT • Claude • Cursor • Qoder • Bolt • Lovable • GitHub Copilot
+
 ## 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
+Git • GitHub • VS Code • Postman
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🔵 HyrSense — AI Recruitment Platform  
-**Role: Full Stack Developer**
+Role: Full Stack Developer
 
-- Developed frontend using React.js and TypeScript  
-- Built backend APIs using FastAPI  
-- Implemented authentication using AWS Cognito  
-- Integrated AWS cloud services  
-- Delivered complete end-to-end SaaS features  
+- Built frontend using React.js and TypeScript  
+- Developed backend APIs using FastAPI  
+- Implemented AWS Cognito authentication  
+- Integrated AWS cloud infrastructure  
+- Delivered production SaaS features  
 
 ---
 
 ## 🟣 SkillfulSense — AI Skill Assessment Platform  
-**Role: Frontend Developer**
+Role: Frontend Developer
 
-- Built responsive frontend using React.js and TypeScript  
-- Developed authentication, dashboards, and UI workflows  
-- Integrated Razorpay and Stripe payment gateways  
-- Connected frontend with backend APIs  
+- Built scalable frontend using React.js and TypeScript  
+- Integrated Razorpay and Stripe payment systems  
+- Developed authentication and dashboard workflows  
 
 ---
 
 ## 🟢 HRSuit — HR Management Platform  
-**Role: Frontend Developer**
+Role: Frontend Developer
 
-- Built frontend using React.js and TypeScript  
-- Developed dashboards and secure UI components  
+- Built responsive frontend using React.js  
 - Integrated REST APIs  
+- Developed secure UI and dashboards  
+
+---
+
+## 📚 EBookBank — eBook Sharing Platform  
+Role: Frontend Developer
+
+- Built React.js platform for PDF sharing and reading  
+- Implemented Firebase backend and real-time search  
+- Optimized Firebase queries for performance  
+- Achieved **40% faster load time**  
+- Increased session duration by **25%**
 
 ---
 
 # 🏆 Certifications
 
-- AWS Certified Cloud Practitioner — Amazon Web Services (2026–2029)  
-- Azure AI Fundamentals — Microsoft  
+- AWS Certified Cloud Practitioner  
+- Azure AI Fundamentals  
 - Cloud Computing — NPTEL  
-- Agile Project Management — HP LIFE  
-- AI Foundations and Prompt Engineering — Naan Mudhalvan  
-- AI Tools Workshop — Be10x  
-- GitHub Portfolio Certification — GUVI  
-- Python Machine Learning Certification — Udemy  
+- Agile Project Management  
+- Prompt Engineering Mastery  
 
 ---
 
-# 📚 Professional Training
+# 🧠 Soft Skills
 
-- Software Development Life Cycle (SDLC) — 15 hours  
-- Agile Fundamentals and Scrum — 4.5 hours  
-- Complete AI Engineer Training — 29.5 hours  
-- Generative AI App Development — 5.5 hours  
-- AWS Cloud Practitioner Training — 22.5 hours  
-
----
-
-# 📈 Professional Goals
-
-- Build scalable SaaS platforms  
-- Become advanced Full Stack Software Engineer  
-- Deepen AWS cloud expertise  
-- Contribute to production-level applications  
+Leadership • Problem Solving • Adaptability • Time Management • Team Collaboration
 
 ---
 
@@ -151,5 +141,3 @@ Passionate about building scalable systems, modern frontend architecture, and cl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Monika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monika-p-30b32a22a/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Monikaips-black?style=for-the-badge&logo=github)](https://github.com/Monikaips)
-
----
