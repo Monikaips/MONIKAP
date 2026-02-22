@@ -31,24 +31,6 @@ I actively use AI-assisted tools like **ChatGPT, Claude, Cursor, Qoder, Bolt, an
 
 ---
 
-# 🧠 Tech Stack
-
-Frontend  
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
-
-Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi)
-
-Cloud  
-![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
-
-Database  
-MongoDB • Firebase  
-
-Payments  
-Razorpay • Stripe  
-
 
 # 🧠 Tech Stack
 
