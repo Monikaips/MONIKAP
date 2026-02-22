@@ -11,10 +11,6 @@
 
 # 🌟 About Me
 
-Full Stack Developer with hands-on experience building scalable SaaS applications using React.js, TypeScript, FastAPI, and AWS.
-
-# 🌟 About Me
-
 🚀 Full Stack Developer with hands-on experience building scalable SaaS applications using **React.js, TypeScript, FastAPI, and AWS**.
 
 I specialize in developing **production-ready systems** with:
